@@ -1,0 +1,7 @@
+{
+  "name": "FocusApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
